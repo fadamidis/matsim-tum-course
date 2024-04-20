@@ -1,4 +1,4 @@
-# matsim-example-project
+# matsim-tum-course
 
 A small example of how to use MATSim as a library.
 
