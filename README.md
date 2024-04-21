@@ -16,7 +16,7 @@ As a result, the speed limit is set at 30 km/h for all modes. As public transpor
 
 ### Visualisation
 
-![screenshot](images/simulation_screenshot.png| width=200)
+![screenshot](images/simulation_screenshot.png | width=200)
 
 ### Emissions
 
