@@ -1,4 +1,4 @@
-# matsim-tum-course
+# MATSim Course at TUM
 
 This repository contains Java classes to prepare and run two MATSim simulations:
 * the `base` scenario simulates the status quo
