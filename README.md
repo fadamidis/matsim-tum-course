@@ -1,6 +1,6 @@
 # MATSim Course at TUM
 
-The semester project at TUM investiagtes if better cycling conditions can attract travellers from car. This repository contains Java classes to prepare and run two MATSim simulations:
+The semester project at TUM investigates if better cycling conditions can attract travellers from car. This repository contains Java classes to prepare and run two MATSim simulations:
 * the `base` scenario simulates the status quo
 * the `measure` scenario includes enhancements of the cycling infrastructure
 
@@ -12,7 +12,7 @@ In principle, two major network modifications take place:
 * Increasing the speed limit of bicycles on links that allow bicycles
 * Decreasing the speed limit of cars on all links
 
-As a result, the speed limit is set at 30 km/h for all modes. As public transport and walking are simulated as teleportation modes, the proposed changes do not affect them.
+As a result, the speed limit is set at 30 km/h for all modes. Because public transport and walking are simulated as teleportation modes, the proposed changes do not affect them.
 
 ### Visualisation
 
