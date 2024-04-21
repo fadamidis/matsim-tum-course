@@ -1,8 +1,23 @@
 # matsim-tum-course
 
-A small example of how to use MATSim as a library.
+This repository contains Java classes to prepare and run two MATSim simulations:
+* the `base` scenario simulates the status quo
+* the `measure` scenario includes enhancements of the cycling infrastructure
 
-By default, this project uses the latest (pre-)release. In order to use a different version, edit `pom.xml`.
+The project starts with creating a Munich network with car and bicycle network modes. Then, a synthetic population is used to generate the plans of Munich residents.
+
+Network modifications 
+
+### Visualisation
+
+### Results
+
+
+### Files
+
+The repository does not include 
+
+
 
 A recommended directory structure is as follows:
 * `src` for sources
