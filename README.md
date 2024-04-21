@@ -1,6 +1,6 @@
 # MATSim Course at TUM
 
-This repository contains Java classes to prepare and run two MATSim simulations:
+The semester project at TUM investiagtes if better cycling conditions can attract travellers from car. This repository contains Java classes to prepare and run two MATSim simulations:
 * the `base` scenario simulates the status quo
 * the `measure` scenario includes enhancements of the cycling infrastructure
 
