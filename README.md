@@ -2,7 +2,7 @@
 
 The semester project at TUM investigates if better cycling conditions can attract travellers from car. This repository contains Java classes to prepare and run two MATSim simulations:
 * the `base` scenario simulates the status quo
-* the `measure` scenario includes enhancements of the cycling infrastructure
+* the `measure` scenario includes enhancements in the cycling infrastructure
 
 The project starts by creating a Munich network with car and bicycle network modes. Then, a synthetic population is used to generate the 5 pct. plans of Munich residents.
 
@@ -20,7 +20,7 @@ As a result, the speed limit is set at 30 km/h for all modes. Because public tra
 
 ### Emissions
 
-The project uses the `emissions` contrib and a simplified mapping for cars on urban roads and motorways. Emissions from cars are estimated in the `base` and `measure` scenarios and compared.
+The project uses the `emissions` contrib and a simplified emissions mapping from HBEFA for cars on urban roads and motorways. Emissions from cars are estimated in the `base` and `measure` scenarios and compared.
 
 ### Results
 
@@ -28,7 +28,7 @@ The simulation results did not show any notable change in the modal split in fav
 
 ### Files
 
-The repository does not include any data that can be used to produce the results.
+The repository does not include any data that can be used to produce the results. The repository includes the required Java classes to prepare and run MATSim simulations.
 
 ### Structure
 
