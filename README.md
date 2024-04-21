@@ -16,6 +16,8 @@ As a result, the speed limit is set at 30 km/h for all modes. As public transpor
 
 ### Visualisation
 
+![screenshot](images/simulation_screenshot.png)
+
 ### Emissions
 
 The project uses the `emissions` contrib and a simplified mapping for cars on urban roads and motorways. Emissions from cars are estimated in the `base` and `measure` scenarios and compared.
