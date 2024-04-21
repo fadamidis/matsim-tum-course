@@ -4,7 +4,7 @@ The semester project at TUM investiagtes if better cycling conditions can attrac
 * the `base` scenario simulates the status quo
 * the `measure` scenario includes enhancements of the cycling infrastructure
 
-The project starts by creating a Munich network with car and bicycle network modes. Then, a synthetic population is used to generate the plans of Munich residents.
+The project starts by creating a Munich network with car and bicycle network modes. Then, a synthetic population is used to generate the 5 pct. plans of Munich residents.
 
 ### Network modifications 
 
