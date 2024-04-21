@@ -4,7 +4,7 @@ This repository contains Java classes to prepare and run two MATSim simulations:
 * the `base` scenario simulates the status quo
 * the `measure` scenario includes enhancements of the cycling infrastructure
 
-The project starts with creating a Munich network with car and bicycle network modes. Then, a synthetic population is used to generate the plans of Munich residents.
+The project starts by creating a Munich network with car and bicycle network modes. Then, a synthetic population is used to generate the plans of Munich residents.
 
 ### Network modifications 
 
@@ -16,15 +16,19 @@ As a result, the speed limit is set at 30 km/h for all modes. As public transpor
 
 ### Visualisation
 
-### Results
+### Emissions
+
+The project uses the `emissions` contrib and a simplified mapping for cars on urban roads and motorways.
 
 ### Results
+
+The simulation results did not show any notable change in the modal split in favour of bicycle traffic. The total emissions remained largely unchanged.
 
 ### Files
 
-The repository does not include any data that can be used to produce the results
+The repository does not include any data that can be used to produce the results.
 
-
+### Structure
 
 A recommended directory structure is as follows:
 * `src` for sources
@@ -34,8 +38,6 @@ A recommended directory structure is as follows:
   * This minimally contains a config file, a network file, and a population file.
   * Output goes one level down, e.g. `scenarios/mySpecialScenario01/output-from-a-good-run/...`.
   
-  
-
 ### Import into IntelliJ
 
 `File -> New -> Project from Version Control` paste the repository url and hit 'clone'. IntelliJ usually figures out
